@@ -48,7 +48,7 @@ My passion lies in solving real-world problems through clean code, thoughtful de
 
 ## 📈 GitHub Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshi6557&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshi6557&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6557&show_icons=true&layout=compact&langs_count=8&theme=default"/>
 </p>
 
