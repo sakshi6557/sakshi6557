@@ -41,10 +41,10 @@ With over 4 years of experience in building scalable, reliable, and intuitive ap
 ---
 
 ## 📈 GitHub Stats
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi6557&show_icons=true&theme=default)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sakshi6557&theme=default)](https://git.io/streak-stats)
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshi6557&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6557&show_icons=true&layout=compact&langs_count=8&theme=default"/>
+</p>
 ---
 
 ## 📬 Get in Touch
