@@ -3,8 +3,14 @@
 <p align="center">
 💻 Software Engineer • 🚀 Tech Enthusiast • ☁️ Cloud Native • 🧠 Lifelong Learner  
 </p>
+<!---With over 4 years of experience as a full-stack software engineer in building scalable, reliable, and intuitive applications, I specialize in **Python**, **JavaScript**, and **C++**. I thrive in fast-paced, collaborative environments and love architecting impactful solutions using modern tech stacks and cloud-native practices.-->
+  
+### 👋 Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sakshi6557.sakshi6557)
 
-With over 4 years of experience in building scalable, reliable, and intuitive applications, I specialize in **Python**, **JavaScript**, and **C++**. I thrive in fast-paced, collaborative environments and love architecting impactful solutions using modern tech stacks and cloud-native practices.
+With over 4 years of hands-on experience as a full-stack software engineer building scalable, reliable, and intuitive applications, I specialize in **Python**, **JavaScript**, and **C++**. I enjoy working in fast-paced, collaborative environments where I can architect impactful solutions using modern tech stacks and cloud-native practices.
+
+My passion lies in solving real-world problems through clean code, thoughtful design, and continuous learning. Whether it's backend systems, full-stack development, or cloud infrastructure.
+
 
 ---
 
@@ -45,6 +51,7 @@ With over 4 years of experience in building scalable, reliable, and intuitive ap
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshi6557&show_icons=true&theme=default" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6557&show_icons=true&layout=compact&langs_count=8&theme=default"/>
 </p>
+
 ---
 
 ## 📬 Get in Touch
